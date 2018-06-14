@@ -1,0 +1,4 @@
+URL-jdbc:mysql://localhost:3306/logparser?useSSL=false
+username-hbstudent
+Password-hbstudent
+filepath-C:\Users\Vikram\Desktop\Java_MySQL_Test\access.log
