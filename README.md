@@ -8,10 +8,15 @@ Elixir/Erlang: There are two project under the hood. One is the Card game and an
                It will produce the same image for the particular string irrespective of the number of times its invoked.
                This app uses many built in functions and data structures of Elixir/Erlang.
 
+Spring MVC: This project is about creating a simple application using Spring MVC.
+             Its mainly about exploring the Sring MVC conecpts and its implementation.
+
 Log Parser: This project reads a Log file in text format and uploads the log file content to MySql database. 
             We can then retrieve the IP addresses whith specified number of hits for particular amount of time.
             Implemented using java and MySQL.
             
+
+
 SOAPWS:  This project is about creating a SOAP webservice and exploring its functionalities.
           It was a self learning project to understande the SOAP web service implementation.
           
